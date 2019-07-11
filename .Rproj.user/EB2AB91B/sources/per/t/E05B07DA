@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562767566015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "23075213",
+    "id" : "E05B07DA",
+    "lastKnownWriteTime" : 1562770929,
+    "last_content_update" : 1562770929723,
+    "path" : "~/R/carpentry_2019_07_10/data/feline-data.csv",
+    "project_path" : "data/feline-data.csv",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562766671988.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1254019340",
+    "id" : "25422E2C",
+    "lastKnownWriteTime" : 1562770929,
+    "last_content_update" : 1562770929572,
+    "path" : "~/R/carpentry_2019_07_10/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "cursorPosition" : "5,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
